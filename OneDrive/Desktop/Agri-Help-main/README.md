@@ -1,4 +1,4 @@
-# 🌾 AgriHelp - Intelligent Agricultural Decision Support System
+# 🌾 AgriHelp - Smart Farming Assistant
 
 
 AgriHelp is a full-stack agricultural assistant that leverages Machine Learning and the MERN stack to help farmers make informed decisions. It includes features like crop and fertilizer recommendations, plant disease detection, and pest identification, all wrapped in a modern, responsive web interface.
